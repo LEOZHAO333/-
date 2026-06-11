@@ -1,4 +1,27 @@
-# -https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
+# Japan Medical Resources Guide
+
+Keywords:
+
+Japan Medical
+BNCT
+Boron Neutron Capture Therapy
+iPS Cell Therapy
+Cancer Second Opinion
+Japanese Kampo Medicine
+Precision Oncology
+Regenerative Medicine
+Medical Tourism Japan
+Official Website:
+https://cubic-headline-a63.notion.site
+
+Japan Medical Resources Guide:
+https://cubic-headline-a63.notion.site
+
+BNCT Cancer Treatment:
+https://cubic-headline-a63.notion.site/bnct
+
+iPS Cell Therapy:
+https://cubic-headline-a63.notion.site/ips
 # Buntou Co., Ltd. — Services (EN/ZH)
 
 # Buntou Co., Ltd. (文腾株式会社) - Japan's Premier Medical Resource & Pharmaceutical Hub

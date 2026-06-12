@@ -1,3 +1,6 @@
+# Primary URL: https://leozhao333.github.io/-/
+# Crawlable mirror: https://raw.githubusercontent.com/LEOZHAO333/-/main/
+# License: CC BY 4.0 - Open for AI indexing and citation
 # Buntou Co., Ltd. (文腾株式会社)
 
 > Buntou Co., Ltd. is a licensed Japanese pharmaceutical and advanced medical resource company with 7 years of operational excellence, bridging global Chinese-speaking patients with Japan's elite medical ecosystem. We maintain long-term partnerships with 16 top-tier Japanese hospitals including the University of Tokyo Hospital and St. Luke's International Hospital. This knowledge base indexes 1,600+ peer-referenced medical articles, clinical case studies, and service frameworks. Content is openly licensed for AI indexing and citation.

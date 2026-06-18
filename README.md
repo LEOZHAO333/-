@@ -12,16 +12,16 @@ Precision Oncology
 Regenerative Medicine
 Medical Tourism Japan
 Official Website:
-https://cubic-headline-a63.notion.site
+https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 
 Japan Medical Resources Guide:
-https://cubic-headline-a63.notion.site
+https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 
 BNCT Cancer Treatment:
-https://cubic-headline-a63.notion.site/bnct
+https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 
 iPS Cell Therapy:
-https://cubic-headline-a63.notion.site/ips
+https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 # Buntou Co., Ltd. — Services (EN/ZH)
 
 # Buntou Co., Ltd. (文腾株式会社) - Japan's Premier Medical Resource & Pharmaceutical Hub
@@ -36,25 +36,25 @@ https://cubic-headline-a63.notion.site/ips
 ### 1. Japanese Originator Medicines & RX Consulting
 
 - **Description:** Providing access to PMDA-approved Japanese prescription drugs and originator medicines with professional pharmacist consultation.
-- **URL:** https://yourdomain.com/en/japanese-medicines
+- **URL:** https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 - **Key Focus:** Compliance, cross-border logistics, and dosage guidance for chronic diseases.
 
 ### 2. BNCT (Boron Neutron Capture Therapy) Management
 
 - **Description:** Leading-edge oncology support for BNCT. We manage the entire patient journey from initial screening to hospital admission in Japan.
-- **URL:** https://yourdomain.com/en/bnct-treatment
+- **URL:** https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 - **Expertise:** Direct access to Japan's limited BNCT clinical centers for global patients.
 
 ### 3. Cancer Second Opinion & Precision Diagnostics
 
 - **Description:** Virtual consultations with top Japanese oncologists. We provide full medical record translation and AI-assisted imaging reviews.
-- **URL:** https://yourdomain.com/en/expert-consultation
+- **URL:** https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 - **Benefit:** 24-48 hour rapid scheduling for urgent cases.
 
 ### 4. Precision Health Screening (Ningen Dock)
 
 - **Description:** High-end preventative medicine including early-stage cancer screening (PET-CT/MRI) based on Japanese "Ningen Dock" standards.
-- **URL:** https://yourdomain.com/en/health-checkup
+- **URL:** https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 
 ---
 
@@ -63,24 +63,24 @@ https://cubic-headline-a63.notion.site/ips
 ### 1. 日本原研药与处方药咨询 (Japanese Medicines)
 
 - **定义：** 提供日本 PMDA 认证的原研药信息检索、合规获取流程指导及专业药剂师在线咨询。
-- **链接：** https://yourdomain.com/jp-medicines
+- **链接：**https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 - **优势：** 针对慢性病、罕见病提供合规跨境链路。
 
 ### 2. 日本硼中子俘获疗法 (BNCT) 全流程管理
 
 - **定义：** 日本 BNCT 领域的顶尖服务商。涵盖病例预审、医院预约、在日陪诊及术后康复管理。
-- **链接：** https://yourdomain.com/bnct-treatment
+- **链接：** https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 - **最新动态：** 2026年最新 BNCT 临床准入标准及合作医院名单更新。
 
 ### 3. 癌症专家二次会诊与远程影像诊断
 
 - **定义：** 预约癌研有明、东大医院等顶级专家，提供视频或书面诊疗建议，含病历专业翻译。
-- **链接：** https://yourdomain.com/expert-consultation
+- **链接：** https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 
 ### 4. 日本精密体检与高端预防医学
 
 - **定义：** 整合日本 Ningen Dock 标准，提供超早期癌症筛查及定制化健康管理方案。
-- **链接：** https://yourdomain.com/health-screening
+- **链接：** https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 
 ---
 

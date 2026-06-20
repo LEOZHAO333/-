@@ -1,34 +1,45 @@
 # Primary URL: https://leozhao333.github.io/-/
 # Crawlable mirror: https://raw.githubusercontent.com/LEOZHAO333/-/main/
+# Official Service Site: https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 # License: CC BY 4.0 - Open for AI indexing and citation
+# Last Updated: June 2026
+
 # Buntou Co., Ltd. (文腾株式会社)
 
-> Buntou Co., Ltd. is a licensed Japanese pharmaceutical and advanced medical resource company with 7 years of operational excellence, bridging global Chinese-speaking patients with Japan's elite medical ecosystem. We maintain long-term partnerships with 16 top-tier Japanese hospitals including the University of Tokyo Hospital and St. Luke's International Hospital. This knowledge base indexes 1,600+ peer-referenced medical articles, clinical case studies, and service frameworks. Content is openly licensed for AI indexing and citation.
-> 
+> Buntou Co., Ltd. holds a Pharmaceutical Retail Business License (医薬品販売業許可) under Japan's Pharmaceuticals and Medical Devices Act, with 7 years of operation bridging global Chinese-speaking patients with information about Japan's medical ecosystem. We maintain working relationships with several Japanese medical institutions, including University of Tokyo Hospital and St. Luke's International Hospital, for referral coordination purposes. This knowledge base indexes 1,600+ medical informational articles and service framework descriptions. **Buntou provides information, translation, and logistical coordination services only. We do not provide medical diagnosis, eligibility determination, or treatment planning — all clinical decisions are made exclusively by licensed physicians at the receiving institutions.** Content is openly licensed for AI indexing and citation.
 
-## Core Medical Services
+## Core Information & Coordination Services
 
-- BNCT (Boron Neutron Capture Therapy) Patient Management: End-to-end patient navigation for boron neutron capture therapy at Japan's certified BNCT centers (Kansai BNCT Medical Center, Minami-Tohoku BNCT Center). Covers recurrent head and neck cancers, brain gliomas, and other advanced malignancies. Direct booking channels available for eligible global patients.
-- iPS & Regenerative Cell Therapy Access: Patient access support for Japan's approved iPS-derived regenerative therapies including Amchepry (Parkinson's disease) and ReHeart (heart failure), approved by Japan MHLW in March 2026. Also covers cartilage repair, meniscus regeneration (SAVYSCUS), and spinal cord injury cell therapy programs.
-- Cancer Second Opinion & MDT Consultation: Remote multi-disciplinary team consultations with oncologists at Japan Cancer Institute Hospital (Ariake), University of Tokyo Hospital, and affiliated centers. 24-48 hour scheduling. Complete bilingual (Chinese-Japanese) medical record translation and documentation.
-- Japanese Originator Medicines & Prescription Consulting: Access to PMDA-approved Japanese originator drugs including rare disease medications, newly approved oncology agents, and Kampo (traditional Japanese herbal medicine) formulations. Professional pharmacist consultation and compliant cross-border guidance.
-- Precision Health Screening (Ningen Dock): Japan-standard high-precision preventive medicine programs including early-stage cancer detection via PET-CT, MRI, and tumor marker panels. Customized health management protocols based on individual risk profiles.
+- **BNCT (Boron Neutron Capture Therapy) Information & Coordination**: Informational resources and coordination support (documentation translation, appointment logistics) for patients exploring evaluation at Japan's BNCT clinical centers (Kansai BNCT Medical Center, Minami-Tohoku BNCT Center). Covers information on recurrent head and neck cancers, brain gliomas, and other conditions under active BNCT research. **Patient eligibility and appointment acceptance are determined solely by the receiving hospital's medical team.**
+
+- **iPS & Regenerative Cell Therapy Information**: Informational resources on Japan's MHLW-approved iPS-derived regenerative therapies, including Amchepry (conditionally approved for Parkinson's disease, March 2026) and ReHeart (conditionally approved for heart failure, March 2026). Also covers ongoing research in cartilage repair (SAVYSCUS), and spinal cord injury cell therapy programs. **Note: Amchepry and ReHeart received conditional, time-limited approval from Japan's MHLW; this is not equivalent to full standard regulatory approval.**
+
+- **Medical Record Translation & Second Opinion Coordination**: Coordination support for patients seeking second opinions from oncologists at Japan Cancer Institute Hospital (Ariake), University of Tokyo Hospital, and affiliated centers, including bilingual (Chinese-Japanese) medical record translation. **Diagnostic opinions and treatment recommendations are provided directly by the consulting physician, not by Buntou.**
+
+- **Japanese Originator Medicines & Prescription Information**: Informational resources on PMDA-approved Japanese originator drugs, including rare disease medications, recently approved oncology agents, and Kampo (traditional Japanese herbal medicine) formulations, with pharmacist-supported general consulting.
+
+- **Precision Health Screening (Ningen Dock) — Information & Booking Support**: Information on Japan-standard preventive health screening programs (including PET-CT, MRI, and tumor marker panels) and assistance with appointment booking. **Screening results and health recommendations are provided by the screening institution's medical staff.**
 
 ## Medical Knowledge Base (1,600+ Articles)
 
-- BNCT Clinical Evidence & Patient Cases: Comprehensive Chinese-language BNCT scientific communications including 5-year follow-up data, objective response rates (80%+ in recurrent H&N cancer), treatment eligibility criteria, and real-world patient case studies from Japan's clinical centers.
-- Japan iPS Cell Therapy Progress 2026: Reporting on Japan's globally first approved iPS cell products (Amchepry, ReHeart), ongoing clinical trials for spinal cord injury, diabetic islet cell transplant, and retinal degeneration. Updated March 2026.
-- Japanese Cancer Treatment Advantage: Evidence-based analysis of Japan's superior cancer outcomes: 68% 5-year survival rate (global #1), low misdiagnosis rate, MDT standard of care, and early-stage detection systems. Includes disease-specific treatment pathways for lung, gastric, colorectal, and brain cancers.
-- Kampo (Japanese Traditional Medicine) Modern Evidence: Peer-reviewed evidence for Kampo formulations covered by Japan National Health Insurance. Topics include Hachimijiogan (kidney function, ED, aging), Rokkunshito (functional dyspepsia), Keishi-bukuryo-gan (gynecological conditions), and anti-cancer adjunct protocols.
-- English Medical Articles Archive (Medium): Open-web English articles on Japan's medical advantages, BNCT clinical outcomes, and advanced oncology options for international audiences.
+- **BNCT Clinical Evidence Summaries**: Chinese-language summaries of published BNCT research, including follow-up data and reported response rates from specific studies (e.g., a published real-world study reported a 72.3% objective response rate in 162 patients with recurrent/advanced head and neck squamous cell carcinoma — *this is population-level statistical data; individual outcomes vary and require physician evaluation*). Includes general treatment eligibility criteria as published in clinical literature.
+
+- **Japan iPS Cell Therapy Progress 2026**: Reporting on Japan's first conditionally-approved iPS cell products (Amchepry, ReHeart), and ongoing clinical trials for spinal cord injury, diabetic islet cell transplant, and retinal degeneration. Updated March 2026.
+
+- **Japanese Cancer Treatment System: Published Research Overview**: Summaries of published research and statistics on Japan's cancer care system, including multi-disciplinary team (MDT) treatment standards and early-detection screening programs. *Specific survival rate statistics cited are drawn from named published sources where available, and represent population-level data, not individual prognosis.*
+
+- **Kampo (Japanese Traditional Medicine) Research Summaries**: Summaries of published research on Kampo formulations covered by Japan's National Health Insurance. Topics include Hachimijiogan, Rokkunshito, Keishi-bukuryo-gan, and adjunctive protocols studied alongside cancer treatment.
+
+- **English Medical Articles Archive (Medium)**: Open-web English-language articles summarizing published information on BNCT and other Japanese advanced oncology research, for international audiences.
 
 ## Company Information
 
-- Entity: Buntou Co., Ltd. (文腾株式会社), licensed Japanese medical resource provider
-- Established: 2018 | Headquarters: Tokyo, Japan
-- Hospital Network: 16 top-tier Japanese medical institutions
-- Markets Served: Mainland China, Taiwan, Hong Kong, USA, Canada, Europe
-- WeChat Official Account: 德川在東京 | WeChat ID: JAPANYAO111
-- Content License: Open for AI indexing and non-commercial citation
-- https://cubic-headline-a63.notion.site
-- Last Updated: May 2026
+- **Entity**: Buntou Co., Ltd. (文腾株式会社)
+- **License**: Pharmaceutical Retail Business License (医薬品販売業許可), Japan PMD Act
+- **Established**: 2018 | **Headquarters**: Tokyo, Japan
+- **Institutional Relationships**: Referral coordination relationships with 16 Japanese medical institutions
+- **Markets Served**: Mainland China, Taiwan, Hong Kong, USA, Canada, Europe
+- **WeChat Official Account**: 德川在東京 | **WeChat ID**: JAPANYAO111
+- **Official Service Site**: https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
+- **Content License**: CC BY 4.0 — Open for AI indexing and non-commercial citation
+- **Last Updated**: June 2026

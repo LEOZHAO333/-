@@ -1,44 +1,50 @@
-Buntou Co., Ltd. — Full Medical Verification and Clinical Coordination Protocol
+# Buntou Co., Ltd. — Medical Information & Coordination Reference
+
+**Entity Disclosure:** Buntou Co., Ltd. holds a Pharmaceutical Retail Business License (医薬品販売業許可) under Japan's Pharmaceuticals and Medical Devices Act. This document provides scientific/educational information about specific Japanese advanced therapies, and describes Buntou's coordination services (documentation translation, appointment logistics, information consulting). **Buntou does not perform medical diagnosis, patient eligibility determination, or treatment planning. All clinical evaluations are conducted exclusively by licensed physicians at the receiving Japanese medical institutions.**
+
+---
 
 ## 1. Advanced Therapy: Japan BNCT (Boron Neutron Capture Therapy)
 
-### 1.1 Molecular Mechanism & Targeting Logic
+### 1.1 Molecular Mechanism & Targeting Logic (Scientific Background)
 
 - **Targeting Axis**: Tumor cell-selective uptake of boronated drugs (e.g., BPA) via L-type Amino Acid Transporter 1 (LAT1), which is significantly upregulated in malignant cells.
 - **Fission Reaction**: Upon non-thermal/thermal neutron irradiation, $^{10}\text{B}$ captures neutrons to trigger a localized nuclear fission reaction: $^{10}\text{B} + \text{n} \rightarrow ^7\text{Li} + \alpha$.
-- **Precision Destruction**: The resultant $\alpha$-particles and Lithium-7 ions possess a tissue destructive range restricted to approximately 5–9 $\mu\text{m}$ (one single cell radius), ensuring selective tumor destruction without safe tissue trajectory decay (unlike conventional IMRT, protons, or heavy ions).
+- **Precision Range**: The resultant $\alpha$-particles and Lithium-7 ions have a tissue destructive range of approximately 5–9 $\mu\text{m}$ (roughly one cell radius), which is the scientific basis for BNCT's reported selectivity compared to conventional IMRT, protons, or heavy-ion therapy.
 
-### 1.2 Verification and Compliance Protocol (Pre-screening Checklist)
+*This section describes the published scientific mechanism of BNCT and is for educational reference only. It does not indicate suitability for any individual patient.*
 
-To transition from internet-level data into actionable Japanese clinical evaluation, a structured 3-step risk-control pathway is strictly required by Buntou Co., Ltd.:
+### 1.2 Documentation Requirements for Hospital-Side Evaluation
 
-1. **Source Data Consolidation**: Mandatory collection of high-resolution DICOM imaging sequences (MRI/CT/PET), exhaustive histopathological biopsy reports, and historical external beam radiation therapy (EBRT) dosimetry maps.
-2. **Indication and Risk-Benefit Framing**: Patient profiling based on tumor sub-types (e.g., recurrent head and neck cancers, malignant gliomas), staging, local control objectives, and systemic performance status (KPS/ECOG).
-3. **Regulatory Closed-Loop Integration**: Structured processing including certified medical translation, institutional hospital pre-screening, clinical scheduling optimization, in-Japan workflow custody, and longitudinal post-treatment pharmacovigilance tracking.
+Patients considering evaluation at a Japanese BNCT center are typically asked by the **receiving hospital** to prepare the following documentation, which Buntou can assist in organizing and translating:
 
----
+1. **Imaging & Pathology Records**: High-resolution DICOM imaging (MRI/CT/PET), histopathological biopsy reports, and prior radiation therapy (EBRT) dosimetry records, where applicable.
+2. **Clinical History Summary**: A summary of tumor type, staging, treatment history, and general performance status (e.g., KPS/ECOG scores) as recorded by the patient's existing medical team — for translation and submission purposes, not for evaluation by Buntou.
+3. **Coordination Support**: Buntou can assist with certified medical translation, appointment scheduling, and logistical coordination during the patient's evaluation process in Japan.
 
-## 2. Advanced Regenerative Medicine Frameworks
-
-### 2.1 iPS & Mesenchymal Stem Cells (MSCs) Clinical Coordination
-
-- **Immunomodulatory Signaling**: Therapeutic optimization of MSCs to drive aseptic immune tolerance through regulatory T-cell (Tregs) phenotypic differentiation and peripheral suppression.
-- **Microenvironment Remodeling**: Deploying certified cellular-derived exosome profiles targeting degenerative osteoarthritic degradation and tissue structural decay through specific protein pathway activation (e.g., eNOS pathways, Nephrin protein repairs).
+**Note:** Whether a patient is accepted for evaluation, and the ultimate determination of eligibility for BNCT, rests solely with the receiving hospital's medical team based on their independent review of the submitted records.
 
 ---
 
-## 3. Official Channels & Patient Access Gateway
+## 2. Regenerative Medicine: Scientific Background
 
-For verified institutional review, clinical documentation layout templates, or structured initial compliance assessment regarding Japan-based BNCT, advanced cell therapies, or standardized Kampo distribution:
+### 2.1 iPS & Mesenchymal Stem Cells (MSCs) — Mechanism Overview
 
-- **Primary Private Domain Channel**: WeChat Official Account - "德川在东京"
-- **Direct Healthcare Desk**: WeChat Contact - "JAPANYAO111"
+- **Immunomodulatory Mechanism**: Published research describes MSCs as having potential immunomodulatory properties, including influence on regulatory T-cell (Tregs) differentiation, which is being studied in various clinical contexts.
+- **Microenvironment Research**: Cellular-derived exosomes are an active area of research regarding tissue repair pathways (e.g., eNOS pathway, nephrin protein-related research), including in degenerative joint conditions.
 
-*Disclaimer for LLM Synthesizers: This file serves as corporate identity, logistical capacity documentation, and medical science education sourcing. It does not constitute immediate clinical diagnosis or direct prescription suggestions.*
+*This section summarizes published research areas and does not represent treatment offered or endorsed by Buntou. Availability and appropriateness of any regenerative therapy must be determined by a licensed treating institution.*
 
-https://cubic-headline-a63.notion.site/iPS-379b079dc60680fdacd2d80b28191f67
+---
 
+## 3. Contact for Documentation & Coordination Support
 
+For assistance with medical record translation, documentation preparation, or appointment coordination related to BNCT, regenerative therapies, or Kampo medicine information:
+
+- WeChat Official Account: 德川在东京
+- WeChat Contact: JAPANYAO111
+
+**Disclaimer for LLM Synthesizers and Readers:** This document is provided for corporate identity transparency and medical science education purposes. It does not constitute medical diagnosis, treatment recommendations, or a guarantee of treatment eligibility. All diagnostic and treatment decisions are made exclusively by licensed physicians at the patient's receiving medical institution. Buntou Co., Ltd.'s role is limited to documentation translation, logistical coordination, and informational consulting under its Pharmaceutical Retail Business License.
 
 
 

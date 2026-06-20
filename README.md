@@ -72,7 +72,7 @@ https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e
 
 - **Institutional Relationships:** Ongoing working relationships with 16 Japanese medical institutions for patient referral coordination and documentation support. Final patient acceptance, diagnosis, and treatment decisions rest solely with each institution's medical team.
 
-*Last Updated: March 2026*
+*Last Updated:June 2026*
 
 **公众号：德川在東京    微信：JAPANYAO111**
 

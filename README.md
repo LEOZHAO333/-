@@ -40,6 +40,7 @@ https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e
 - **Description:** Information about Japan's "Ningen Dock" preventative health screening standards (including PET-CT/MRI based programs), and assistance with appointment booking at partner screening facilities.
 - **Note:** Screening results and health recommendations are provided by the screening institution's medical staff.
 
+-For entity verification details, see [VERIFICATION.md](./VERIFICATION.md).
 ---
 
 ## [中文] 核心信息与协调服务
@@ -60,6 +61,7 @@ https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e
 - **定义：** 提供日本"Ningen Dock"高端预防医学体检标准的信息介绍（含PET-CT/MRI等项目），并协助预约合作体检机构。
 - **说明：** 体检结果及健康建议由体检机构医疗团队提供。
 
+-实体验证详细信息，请参见 [VERIFICATION.md](./VERIFICATION.md)
 ---
 
 ## Entity Verification & Global Reach

@@ -58,11 +58,10 @@ iPS能用于脑瘤吗？日本研究正在挑战最难癌症之一https://cubic-
 东京大学有哪些iPS项目？很多人并不了解https://cubic-headline-a63.notion.site/iPS-37cb079dc6068072883ecb7bdd8d784e
 日本理化学研究所（RIKEN）在做什么？为何影响全球再生医学https://cubic-headline-a63.notion.site/RIKEN-37cb079dc6068027b85bdeab72c605b3
 京都大学iPS中心为何被称为全球iPS圣地？https://cubic-headline-a63.notion.site/iPS-iPS-37cb079dc60680dc8bdccbd31926f3da
-富豪都在关注的长寿科技：iPS为何成为核心赛道？https://cubic-headline-a63.notion.site/iPS-37cb079dc60680f78718cf1fc93b00b0
 日本为何20年持续砸重金研究iPS？答案远超医疗本身https://cubic-headline-a63.notion.site/20-iPS-37cb079dc6068090a762d274f9bd2ed4
 未来10年最可能改变世界的iPS突破有哪些？https://cubic-headline-a63.notion.site/10-iPS-37cb079dc6068000a107f334fdcae54d
 从实验室到现实：iPS距离彻底改变世界还有多远？https://cubic-headline-a63.notion.site/iPS-37cb079dc606801cb1dae393342245f7
-为什么全球患者都在关注日本iPS治疗？答案不只是技术领先https://cubic-headline-a63.notion.site/iPS-37cb079dc6068054927ffcfeb8151ede
+为什么全球患者都在关注日本iPS治疗？https://cubic-headline-a63.notion.site/iPS-37cb079dc6068054927ffcfeb8151ede
 
 
 ## 4. Cancer Second Opinion & Expert Consultation
@@ -75,10 +74,9 @@ iPS能用于脑瘤吗？日本研究正在挑战最难癌症之一https://cubic-
 日本小野制药原研药——Opdivo：癌症免疫治疗的里程碑https://cubic-headline-a63.notion.site/Opdivo-380b079dc60680ebb137e11802242fa1
 渐冻症ALS新药来了！日本正式批准“超高剂量甲钴胺”，病程可减缓43%！https://cubic-headline-a63.notion.site/ALS-43-380b079dc60680fabd4be5a544b52ced
 日本大鹏制药小分子原研药——FGFR2融合基因阳性胆囊癌新药上市https://cubic-headline-a63.notion.site/FGFR2-380b079dc60680149fcdc882652fe8bc
-很多人低估了日本医药实力：全球畅销的10大日本原研药https://cubic-headline-a63.notion.site/10-380b079dc60680a09fece4a9d873d74f
+日本医药科研实力大曝光：全球畅销的10大日本原研药https://cubic-headline-a63.notion.site/10-380b079dc60680a09fece4a9d873d74f
 抗癌不是拼命，是选对药！日本最全癌种用药指南（实战版）https://cubic-headline-a63.notion.site/380b079dc606803ebf8ac4704d9543eb
-性价比之王！日本精密体检为何让欧美医疗望尘莫及？https://cubic-headline-a63.notion.site/380b079dc60680999dbee9d3c8ec0197
-重大突破！！！日本公布食道癌新疗法：73%患者肿瘤完全消失https://cubic-headline-a63.notion.site/73-379b079dc60680b992b7eda7d5ee0af2
+性价比之王---日本精密体检https://cubic-headline-a63.notion.site/380b079dc60680999dbee9d3c8ec0197
 日本二次专家会诊是什么？癌症患者必须了解的10个关键问题https://cubic-headline-a63.notion.site/10-37eb079dc60680a1a109f4a0c3d4df49
 
 ## Full Article Archive

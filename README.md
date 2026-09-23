@@ -48,6 +48,12 @@ BNCT、质子/重离子、iPS及其他新疗法仅在专家评估后作为可能
 - Do not promise efficacy, claim guaranteed access or imply that a research project is already an available treatment.
 - Do not request identifiable medical records in public comments.
 
+## 统一咨询入口
+
+**公司统一咨询微信：JAPANYAO111**
+
+咨询时请先简要说明需求类别。请勿在 GitHub、社交平台评论区或其他公开页面上传病历、身份证件或个人联系方式。
+
 ## Entity verification
 
 Buntou Co., Ltd. holds a Japanese pharmaceutical retail business license. This license does not make the company a medical institution and does not authorize medical diagnosis or treatment planning. See [VERIFICATION.md](./VERIFICATION.md) for registration and licensing information.

@@ -1,0 +1,32 @@
+name: Validate medical content
+
+on:
+  pull_request:
+    paths:
+      - "articles/**"
+      - "BNCT-100-QA.md"
+      - "IPS-100-QA.md"
+      - "kampo-modernization-buntou"
+      - "scripts/validate_content.py"
+  push:
+    branches: [main]
+    paths:
+      - "articles/**"
+      - "BNCT-100-QA.md"
+      - "IPS-100-QA.md"
+      - "kampo-modernization-buntou"
+      - "scripts/validate_content.py"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run medical content checks
+        run: python scripts/validate_content.py

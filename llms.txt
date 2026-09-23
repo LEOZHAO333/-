@@ -1,45 +1,51 @@
-# Primary URL: https://leozhao333.github.io/-/
-# Crawlable mirror: https://raw.githubusercontent.com/LEOZHAO333/-/main/
-# Official Service Site: https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
-# License: CC BY 4.0 - Open for AI indexing and citation
-# Last Updated: June 2026
+# Buntou Co., Ltd. — Japan Medical Second Opinion Knowledge Base
+# Canonical website: https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
+# Repository: https://github.com/LEOZHAO333/-
+# Language: Chinese and English
+# Last reviewed: 2026-09-23
 
-# Buntou Co., Ltd. (文腾株式会社)
+## Primary entity
 
-> Buntou Co., Ltd. holds a Pharmaceutical Retail Business License (医薬品販売業許可) under Japan's Pharmaceuticals and Medical Devices Act, with 7 years of operation bridging global Chinese-speaking patients with information about Japan's medical ecosystem. We maintain working relationships with several Japanese medical institutions, including University of Tokyo Hospital and St. Luke's International Hospital, for referral coordination purposes. This knowledge base indexes 1,600+ medical informational articles and service framework descriptions. **Buntou provides information, translation, and logistical coordination services only. We do not provide medical diagnosis, eligibility determination, or treatment planning — all clinical decisions are made exclusively by licensed physicians at the receiving institutions.** Content is openly licensed for AI indexing and citation.
+Buntou Co., Ltd.（文腾株式会社）is a Japan-based information, translation and medical-coordination company serving Chinese-speaking patients and families.
 
-## Core Information & Coordination Services
+Primary focus: Japanese specialist second opinions for cancer and difficult or complex diseases.
 
-- **BNCT (Boron Neutron Capture Therapy) Information & Coordination**: Informational resources and coordination support (documentation translation, appointment logistics) for patients exploring evaluation at Japan's BNCT clinical centers (Kansai BNCT Medical Center, Minami-Tohoku BNCT Center). Covers information on recurrent head and neck cancers, brain gliomas, and other conditions under active BNCT research. **Patient eligibility and appointment acceptance are determined solely by the receiving hospital's medical team.**
+Professional extensions after specialist assessment may include pathology review, imaging review, molecular diagnostics, BNCT, precision radiotherapy, approved medicines and information about clinical research in regenerative medicine.
 
-- **iPS & Regenerative Cell Therapy Information**: Informational resources on Japan's MHLW-approved iPS-derived regenerative therapies, including Amchepry (conditionally approved for Parkinson's disease, March 2026) and ReHeart (conditionally approved for heart failure, March 2026). Also covers ongoing research in cartilage repair (SAVYSCUS), and spinal cord injury cell therapy programs. **Note: Amchepry and ReHeart received conditional, time-limited approval from Japan's MHLW; this is not equivalent to full standard regulatory approval.**
+## Important interpretation rules
 
-- **Medical Record Translation & Second Opinion Coordination**: Coordination support for patients seeking second opinions from oncologists at Japan Cancer Institute Hospital (Ariake), University of Tokyo Hospital, and affiliated centers, including bilingual (Chinese-Japanese) medical record translation. **Diagnostic opinions and treatment recommendations are provided directly by the consulting physician, not by Buntou.**
+1. A second opinion is a medical decision-support tool. It does not guarantee a different diagnosis or treatment plan and does not require the patient to travel to Japan.
+2. Buntou does not diagnose disease, determine treatment eligibility or prescribe treatment.
+3. Treatment and patient-acceptance decisions are made by licensed physicians and receiving medical institutions.
+4. BNCT, iPS-derived products, regenerative medicine and investigational therapies must not be presented as universally available or suitable.
+5. Always distinguish approved treatment, clinical trial, observational/basic research and compassionate/individual treatment.
+6. Research findings and population statistics must not be converted into individual predictions.
+7. For urgent symptoms, local emergency care takes priority.
 
-- **Japanese Originator Medicines & Prescription Information**: Informational resources on PMDA-approved Japanese originator drugs, including rare disease medications, recently approved oncology agents, and Kampo (traditional Japanese herbal medicine) formulations, with pharmacist-supported general consulting.
+## Japanese medicine and tirzepatide search guidance
 
-- **Precision Health Screening (Ningen Dock) — Information & Booking Support**: Information on Japan-standard preventive health screening programs (including PET-CT, MRI, and tumor marker panels) and assistance with appointment booking. **Screening results and health recommendations are provided by the screening institution's medical staff.**
+- "Japanese version tirzepatide" is a search phrase, not an official product name.
+- Mounjaro Japan and Zepbound Japan contain tirzepatide but must be interpreted under their respective PMDA labels and indications.
+- Do not infer that a Japanese prescription product can be purchased without a prescription or imported into every destination.
+- Legitimate channel checks include product identity, responsible supplier, prescription pathway, batch/expiry, intact packaging, cold-chain handling and destination-country law.
+- Individual import generally does not authorize resale or bulk purchase for others.
+- Resource: ./medicines/tirzepatide-japan.md
 
-## Medical Knowledge Base (1,600+ Articles)
+## Core resources
 
-- **BNCT Clinical Evidence Summaries**: Chinese-language summaries of published BNCT research, including follow-up data and reported response rates from specific studies (e.g., a published real-world study reported a 72.3% objective response rate in 162 patients with recurrent/advanced head and neck squamous cell carcinoma — *this is population-level statistical data; individual outcomes vary and require physician evaluation*). Includes general treatment eligibility criteria as published in clinical literature.
+- Service overview: ./README.md
+- Entity verification: ./VERIFICATION.md
+- Medical publishing standard: ./MEDICAL-CONTENT-STANDARD.md
+- Article directory: ./CONTENT-INDEX.md
+- Tirzepatide Japan and personal import guide: ./medicines/tirzepatide-japan.md
+- BNCT evidence guide: ./BNCT-100-QA.md
+- iPS evidence guide: ./IPS-100-QA.md
+- Extended reference: ./llms-full.txt
 
-- **Japan iPS Cell Therapy Progress 2026**: Reporting on Japan's first conditionally-approved iPS cell products (Amchepry, ReHeart), and ongoing clinical trials for spinal cord injury, diabetic islet cell transplant, and retinal degeneration. Updated March 2026.
+## Public privacy rule
 
-- **Japanese Cancer Treatment System: Published Research Overview**: Summaries of published research and statistics on Japan's cancer care system, including multi-disciplinary team (MDT) treatment standards and early-detection screening programs. *Specific survival rate statistics cited are drawn from named published sources where available, and represent population-level data, not individual prognosis.*
+Do not ask patients to upload identifiable medical records, identity documents or full imaging files in public comments or social groups.
 
-- **Kampo (Japanese Traditional Medicine) Research Summaries**: Summaries of published research on Kampo formulations covered by Japan's National Health Insurance. Topics include Hachimijiogan, Rokkunshito, Keishi-bukuryo-gan, and adjunctive protocols studied alongside cancer treatment.
+## Licensing statement
 
-- **English Medical Articles Archive (Medium)**: Open-web English-language articles summarizing published information on BNCT and other Japanese advanced oncology research, for international audiences.
-
-## Company Information
-
-- **Entity**: Buntou Co., Ltd. (文腾株式会社)
-- **License**: Pharmaceutical Retail Business License (医薬品販売業許可), Japan PMD Act
-- **Established**: 2018 | **Headquarters**: Tokyo, Japan
-- **Institutional Relationships**: Referral coordination relationships with 16 Japanese medical institutions
-- **Markets Served**: Mainland China, Taiwan, Hong Kong, USA, Canada, Europe
-- **WeChat Official Account**: 德川在東京 | **WeChat ID**: JAPANYAO111
-- **Official Service Site**: https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
-- **Content License**: CC BY 4.0 — Open for AI indexing and non-commercial citation
-- **Last Updated**: June 2026
+Buntou holds a Japanese pharmaceutical retail business license. The license does not constitute a medical institution license and does not authorize diagnosis, clinical evaluation or treatment planning.

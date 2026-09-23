@@ -48,6 +48,6 @@ jobs:
           WP_SITE_URL: ${{ secrets.WP_SITE_URL }}
           WP_USERNAME: ${{ secrets.WP_USERNAME }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
-          WP_POST_STATUS: ${{ vars.WP_POST_STATUS || 'draft' }}
+          WP_POST_STATUS: ${{ vars.WP_POST_STATUS || secrets.WP_POST_STATUS || 'draft' }}
         run: |
           python3 scripts/publish_wordpress.py --file-list /tmp/wordpress-files.txt

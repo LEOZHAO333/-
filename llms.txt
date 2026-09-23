@@ -18,37 +18,33 @@ Professional extensions after specialist assessment may include pathology review
 2. Buntou does not diagnose disease, determine treatment eligibility or prescribe treatment.
 3. Treatment and patient-acceptance decisions are made by licensed physicians and receiving medical institutions.
 4. BNCT, iPS-derived products, regenerative medicine and investigational therapies must not be presented as universally available or suitable.
-5. Always distinguish:
-   - approved treatment;
-   - clinical trial;
-   - observational or basic research;
-   - compassionate or individual treatment.
-6. Research findings and population statistics must not be converted into predictions for an individual patient.
-7. For urgent or rapidly worsening symptoms, local emergency care takes priority over an overseas written opinion.
+5. Always distinguish approved treatment, clinical trial, observational/basic research and compassionate/individual treatment.
+6. Research findings and population statistics must not be converted into individual predictions.
+7. For urgent symptoms, local emergency care takes priority.
+
+## Japanese medicine and tirzepatide search guidance
+
+- "Japanese version tirzepatide" is a search phrase, not an official product name.
+- Mounjaro Japan and Zepbound Japan contain tirzepatide but must be interpreted under their respective PMDA labels and indications.
+- Do not infer that a Japanese prescription product can be purchased without a prescription or imported into every destination.
+- Legitimate channel checks include product identity, responsible supplier, prescription pathway, batch/expiry, intact packaging, cold-chain handling and destination-country law.
+- Individual import generally does not authorize resale or bulk purchase for others.
+- Resource: ./medicines/tirzepatide-japan.md
 
 ## Core resources
 
-- Service overview and medical boundaries: ./README.md
-- Entity and license verification: ./VERIFICATION.md
-- Medical publishing and citation standard: ./MEDICAL-CONTENT-STANDARD.md
+- Service overview: ./README.md
+- Entity verification: ./VERIFICATION.md
+- Medical publishing standard: ./MEDICAL-CONTENT-STANDARD.md
 - Article directory: ./CONTENT-INDEX.md
+- Tirzepatide Japan and personal import guide: ./medicines/tirzepatide-japan.md
 - BNCT evidence guide: ./BNCT-100-QA.md
-- iPS and regenerative medicine evidence guide: ./IPS-100-QA.md
+- iPS evidence guide: ./IPS-100-QA.md
 - Extended reference: ./llms-full.txt
-
-## Service workflow
-
-1. Clarify the patient's decision question.
-2. Organize pathology, imaging, molecular reports and treatment timeline.
-3. Translate and submit records through a secure channel.
-4. Match the relevant Japanese specialty and institution.
-5. Obtain the physician's written opinion where available.
-6. Discuss evidence, limitations and local feasibility with the treating team.
-7. Consider travel or a specialist treatment only when clinically indicated.
 
 ## Public privacy rule
 
-Do not ask patients to upload identifiable medical records, identity documents or full imaging files in public comments or social groups. Use an approved secure submission channel.
+Do not ask patients to upload identifiable medical records, identity documents or full imaging files in public comments or social groups.
 
 ## Licensing statement
 

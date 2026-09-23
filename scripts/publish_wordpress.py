@@ -20,6 +20,16 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 
+WECHAT_FOOTER = """
+<hr>
+<section class="wechat-official-account" aria-label="WeChat official account">
+<p><strong>微信公众号 / WeChat Official Account：德川在东京</strong></p>
+<p>更多日本医疗、癌症专家第二意见与精准医疗原创内容，请关注公众号“德川在东京”。</p>
+<p><em>For more original content on Japanese medical care and expert second opinions, follow “德川在东京” on WeChat.</em></p>
+</section>
+""".strip()
+
+
 def required_env(name: str) -> str:
     value = os.getenv(name, "").strip()
     if not value:
@@ -42,6 +52,12 @@ def parse_file(path: Path):
     )
     body_match = re.search(r"<body[^>]*>(.*?)</body>", raw, re.IGNORECASE | re.DOTALL)
     body = body_match.group(1).strip() if body_match else raw
+    if "wechat-official-account" not in body:
+        article_end = re.search(r"</article>\s*$", body, re.IGNORECASE)
+        if article_end:
+            body = body[: article_end.start()] + WECHAT_FOOTER + "\n" + body[article_end.start() :]
+        else:
+            body = body + "\n" + WECHAT_FOOTER
     slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", path.stem).strip("-").lower()
     return title, description, body, slug
 

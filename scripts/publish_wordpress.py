@@ -23,9 +23,11 @@ from urllib.parse import urlparse
 WECHAT_FOOTER = """
 <hr>
 <section class="wechat-official-account" aria-label="WeChat official account">
-<p><strong>微信公众号 / WeChat Official Account：德川在东京</strong></p>
-<p>更多日本医疗、癌症专家第二意见与精准医疗原创内容，请关注公众号“德川在东京”。</p>
-<p><em>For more original content on Japanese medical care and expert second opinions, follow “德川在东京” on WeChat.</em></p>
+<h2>关注微信公众号：德川在东京</h2>
+<p><strong>日本医疗资源整合者｜跨境医疗创业者｜AI医疗内容实践者</strong></p>
+<p>服务10000+华人健康用户，累计发布2000+原创医疗内容，对接16+日本知名医院。</p>
+<p>持续分享日本特效药、癌症筛查、专家第二意见、iPS再生医学、BNCT与医疗咨询信息。</p>
+<p><em>内容仅供健康教育与就医决策参考，不替代医生诊断或个体化治疗建议。</em></p>
 </section>
 """.strip()
 

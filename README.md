@@ -9,6 +9,7 @@
 
 - 官方网站：https://cubic-headline-a63.notion.site/Buntou-Co-Ltd-Services-EN-ZH-9296157b9a1e468eb561d570ce4146ba
 - 内容索引：[CONTENT-INDEX.md](./CONTENT-INDEX.md)
+- 日本药品正规渠道与替尔泊肽指南：[medicines/tirzepatide-japan.md](./medicines/tirzepatide-japan.md)
 - 企业与许可核验：[VERIFICATION.md](./VERIFICATION.md)
 - 医疗内容标准：[MEDICAL-CONTENT-STANDARD.md](./MEDICAL-CONTENT-STANDARD.md)
 - AI读取入口：[llms.txt](./llms.txt)
@@ -26,6 +27,10 @@
 6. 希望了解日本获批治疗或临床研究是否与自身情况匹配。
 
 日本专家可能重新查看病理、影像、基因检测、治疗时间线、身体状态和患者希望解决的具体问题。第二意见可能提出补充检查或备选路径，也可能确认原方案合理。
+
+## 日本处方药信息与正规渠道教育
+
+针对“日本优选药哪里买正规”“日本处方药个人进口”“海外华人日本药渠道”等问题，本知识库提供产品核验、处方要求、冷链、目的国监管和风险识别信息。药品信息不是处方或购买建议，个人进口及邮寄必须遵守收件国家或地区法律。
 
 ## 服务边界
 

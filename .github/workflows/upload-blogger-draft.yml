@@ -1,0 +1,47 @@
+name: Upload Blogger drafts
+
+on:
+  push:
+    branches:
+      - 'automation/blogger-*'
+    paths:
+      - 'blogger/*.html'
+  workflow_dispatch:
+    inputs:
+      file:
+        description: 'One blogger/YYYY-MM-DD-slug.html file'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: blogger-drafts
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Select changed Blogger files
+        shell: bash
+        env:
+          REQUESTED_FILE: ${{ inputs.file }}
+        run: |
+          if [ -n "$REQUESTED_FILE" ]; then
+            printf '%s\n' "$REQUESTED_FILE" > /tmp/blogger-files.txt
+          else
+            git diff --name-only --diff-filter=AM HEAD^ HEAD -- 'blogger/*.html' > /tmp/blogger-files.txt
+          fi
+          sed -i '/^[[:space:]]*$/d' /tmp/blogger-files.txt
+      - name: Create or update Blogger drafts only
+        env:
+          BLOGGER_BLOG_ID: '2479327018222778135'
+          BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: python3 scripts/publish_blogger.py --file-list /tmp/blogger-files.txt
